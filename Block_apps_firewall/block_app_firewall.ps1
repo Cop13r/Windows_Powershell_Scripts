@@ -1,0 +1,1 @@
+﻿New-NetFirewallRule -DisplayName "Pak2_block" -Direction Outbound -Action Block -Program "C:\Program Files\Cisco Packet Tracer 8.2.1\bin\PacketTracer.exe"

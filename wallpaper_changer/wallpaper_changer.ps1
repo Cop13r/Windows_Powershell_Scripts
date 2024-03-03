@@ -1,0 +1,1 @@
+﻿set-itemproperty -path "HKCU:Control Panel\Desktop" -name WallPaper -value G:\Admin\Pictures\linuxwall.png
