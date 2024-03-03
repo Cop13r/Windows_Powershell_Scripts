@@ -1,4 +1,4 @@
-# Windows_Scripts
+# Windows_Powershell_Scripts
 Windows Powershell Scripts I made, just made this, may need structure changes because of how its just just files
 
 
